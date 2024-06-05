@@ -1,0 +1,10 @@
+# ninja log v5
+1	127	1683842836680012386	CMakeFiles/executable.dir/main.c.o	c3d3f8442bf8b33b
+129	231	1683842836780694648	executable	792e275ea1850341
+2	522	1683843418079870872	CMakeFiles/executable.dir/main.c.o	c3d3f8442bf8b33b
+5	523	1683843418080721450	CMakeFiles/executable.dir/information_content.c.o	525345dbccedd21b
+1	111	1683843457421725381	CMakeFiles/executable.dir/alphabet.c.o	5922ec56b670d8cd
+2	117	1683843457428173171	CMakeFiles/executable.dir/pw_generator.c.o	270975aecd161074
+117	253	1683843457564577129	executable	50666cabf861b5be
+4	457	1683843865049590924	CMakeFiles/executable.dir/alphabet.c.o	5922ec56b670d8cd
+458	562	1683843865153720444	executable	50666cabf861b5be

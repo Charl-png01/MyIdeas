@@ -1,0 +1,17 @@
+# ninja log v5
+0	124	1684456257878579173	CMakeFiles/assignment5_cellular_automata.dir/main.c.o	27ac464dfea664d7
+125	270	1684456258023245953	assignment5_cellular_automata	d6a853ff2f21752b
+0	86	1684456401568021723	CMakeFiles/executable.dir/main.c.o	8f30f4ab3c688363
+86	183	1684456401663921715	executable	792e275ea1850341
+2	480	1684456992313118827	CMakeFiles/executable.dir/picture.c.o	ab2ce125293d6cfe
+2	481	1684456992312065980	CMakeFiles/executable.dir/arrays.c.o	b6b02a40e1c3a07
+1	499	1684456992334202745	CMakeFiles/executable.dir/main.c.o	8f30f4ab3c688363
+480	564	1684456992401364667	CMakeFiles/executable.dir/rules.c.o	3ffd59e5ba020fb8
+482	573	1684456992411298224	CMakeFiles/executable.dir/test_function.c.o	ce38a276dd5a7f1b
+573	714	1684456992543460373	executable	3f698bf7a84890c9
+8	144	1684457141724234431	CMakeFiles/executable.dir/picture.c.o	ab2ce125293d6cfe
+7	157	1684457141737624661	CMakeFiles/executable.dir/main.c.o	8f30f4ab3c688363
+11	157	1684457141737487299	CMakeFiles/executable.dir/arrays.c.o	b6b02a40e1c3a07
+144	209	1684457141792409260	CMakeFiles/executable.dir/rules.c.o	3ffd59e5ba020fb8
+157	229	1684457141812432058	CMakeFiles/executable.dir/test_function.c.o	ce38a276dd5a7f1b
+229	332	1684457141912760577	executable	3f698bf7a84890c9

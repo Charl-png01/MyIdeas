@@ -1,0 +1,4 @@
+sudo echo -e '\n\033[1;33mYou have entered the network 192.199.1.0/24\033[0m'
+echo ""
+sudo ip netns exec server-net bash -c "bash --rcfile <(cat ~/.bashrc; echo 'PS1=\"\[\033[1;35m\]root@192.199.1.10\[\033[0m\]:\[\033[1;34m\]\W\[\033[0m\]# \[\e]2;SERVER\a\]\"')"
+echo -e '\n\033[1;33mYou have exited the network 192.199.1.0/24\033[0m'

@@ -1,0 +1,3 @@
+/Users/charleskokofi/comp3356/chakokof-comp3356spring2023/assignment6_steganography/cmake-build-debug/CMakeFiles/executable.dir
+/Users/charleskokofi/comp3356/chakokof-comp3356spring2023/assignment6_steganography/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/charleskokofi/comp3356/chakokof-comp3356spring2023/assignment6_steganography/cmake-build-debug/CMakeFiles/rebuild_cache.dir

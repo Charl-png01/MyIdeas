@@ -1,0 +1,4 @@
+sudo echo -e '\n\033[1;33mYou have entered the network 172.16.1.0/24\033[0m'
+echo ""
+sudo ip netns exec client-net bash -c "bash --rcfile <(cat ~/.bashrc; echo 'PS1=\"\[\033[1;36m\]root@172.16.1.10\[\033[0m\]:\[\033[1;34m\]\W\[\033[0m\]# \[\e]2;CLIENT\a\]\"')"
+echo -e '\n\033[1;33mYou have exited the network 172.16.1.0/24\033[0m'

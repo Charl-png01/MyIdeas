@@ -1,0 +1,18 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/charleskokofi/comp3356/chakokof-comp3356spring2023/final -B /Users/charleskokofi/comp3356/chakokof-comp3356spring2023/final/cmake-build-debug
+-- The C compiler identification is AppleClang 14.0.3.14030022
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /Library/Developer/CommandLineTools/usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Performing Test SUPPORTS_WARNING_Weverything
+-- Performing Test SUPPORTS_WARNING_Weverything - Success
+-- Performing Test SUPPORTS_WARNING_Wnopoisonsystemdirectories
+-- Performing Test SUPPORTS_WARNING_Wnopoisonsystemdirectories - Success
+-- Performing Test SUPPORTS_WARNING_Wnodeclarationafterstatement
+-- Performing Test SUPPORTS_WARNING_Wnodeclarationafterstatement - Success
+-- Looking for pow in m
+-- Looking for pow in m - found
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/charleskokofi/comp3356/chakokof-comp3356spring2023/final/cmake-build-debug
