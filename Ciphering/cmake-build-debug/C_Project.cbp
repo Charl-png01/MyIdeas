@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="C_Project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\cmake\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/charleskokofi/Desktop/JobHub/MyIdeas/midterm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/charleskokofi/Desktop/JobHub/MyIdeas/midterm/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/charleskokofi/Desktop/JobHub/MyIdeas/midterm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/charleskokofi/Desktop/JobHub/MyIdeas/midterm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/charleskokofi/Desktop/JobHub/MyIdeas/midterm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="executable">
+				<Option output="/Users/charleskokofi/Desktop/JobHub/MyIdeas/midterm/cmake-build-debug/executable" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/charleskokofi/Desktop/JobHub/MyIdeas/midterm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/charleskokofi/Desktop/JobHub/MyIdeas/midterm/cmake-build-debug/Makefile&quot;  VERBOSE=1 executable"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/charleskokofi/Desktop/JobHub/MyIdeas/midterm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/charleskokofi/Desktop/JobHub/MyIdeas/midterm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/charleskokofi/Desktop/JobHub/MyIdeas/midterm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="executable/fast">
+				<Option output="/Users/charleskokofi/Desktop/JobHub/MyIdeas/midterm/cmake-build-debug/executable" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/charleskokofi/Desktop/JobHub/MyIdeas/midterm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/charleskokofi/Desktop/JobHub/MyIdeas/midterm/cmake-build-debug/Makefile&quot;  VERBOSE=1 executable/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/charleskokofi/Desktop/JobHub/MyIdeas/midterm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/charleskokofi/Desktop/JobHub/MyIdeas/midterm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/charleskokofi/Desktop/JobHub/MyIdeas/midterm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/charleskokofi/Desktop/JobHub/MyIdeas/midterm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/charleskokofi/Desktop/JobHub/MyIdeas/midterm/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/charleskokofi/Desktop/JobHub/MyIdeas/midterm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/charleskokofi/Desktop/JobHub/MyIdeas/midterm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/charleskokofi/Desktop/JobHub/MyIdeas/midterm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/charleskokofi/Desktop/JobHub/MyIdeas/midterm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/charleskokofi/Desktop/JobHub/MyIdeas/midterm/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/charleskokofi/Desktop/JobHub/MyIdeas/midterm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/charleskokofi/Desktop/JobHub/MyIdeas/midterm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/charleskokofi/Desktop/JobHub/MyIdeas/midterm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/charleskokofi/Desktop/JobHub/MyIdeas/midterm/main.c">
+			<Option target="executable"/>
+		</Unit>
+		<Unit filename="/Users/charleskokofi/Desktop/JobHub/MyIdeas/midterm/percent.c">
+			<Option target="executable"/>
+		</Unit>
+		<Unit filename="/Users/charleskokofi/Desktop/JobHub/MyIdeas/midterm/percent.h">
+			<Option target="executable"/>
+		</Unit>
+		<Unit filename="/Users/charleskokofi/Desktop/JobHub/MyIdeas/midterm/substitution.c">
+			<Option target="executable"/>
+		</Unit>
+		<Unit filename="/Users/charleskokofi/Desktop/JobHub/MyIdeas/midterm/substitution.h">
+			<Option target="executable"/>
+		</Unit>
+		<Unit filename="/Users/charleskokofi/Desktop/JobHub/MyIdeas/midterm/test_percent.c">
+			<Option target="executable"/>
+		</Unit>
+		<Unit filename="/Users/charleskokofi/Desktop/JobHub/MyIdeas/midterm/test_substitution.c">
+			<Option target="executable"/>
+		</Unit>
+		<Unit filename="/Users/charleskokofi/Desktop/JobHub/MyIdeas/midterm/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/charleskokofi/Desktop/JobHub/MyIdeas/midterm/cmake/CompilerSetup.cmake">
+			<Option virtualFolder="CMake Files\cmake\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

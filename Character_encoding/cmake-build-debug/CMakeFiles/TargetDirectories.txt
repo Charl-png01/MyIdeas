@@ -1,0 +1,3 @@
+/Users/charleskokofi/Desktop/JobHub/MyIdeas/assignment3_pig_latin/cmake-build-debug/CMakeFiles/assignment3_pig_latin.dir
+/Users/charleskokofi/Desktop/JobHub/MyIdeas/assignment3_pig_latin/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/charleskokofi/Desktop/JobHub/MyIdeas/assignment3_pig_latin/cmake-build-debug/CMakeFiles/rebuild_cache.dir

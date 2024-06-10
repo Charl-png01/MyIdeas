@@ -1,0 +1,3 @@
+/Users/charleskokofi/Desktop/JobHub/MyIdeas/midterm/cmake-build-debug/CMakeFiles/executable.dir
+/Users/charleskokofi/Desktop/JobHub/MyIdeas/midterm/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/charleskokofi/Desktop/JobHub/MyIdeas/midterm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
